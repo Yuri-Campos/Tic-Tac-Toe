@@ -1,8 +1,6 @@
 # Tic-Tac-Toe
 
 
-A C++ ASCII GameEngine based on TCOD and SDL2.
-
 ## Index
 
 - [Overview](#overview)
